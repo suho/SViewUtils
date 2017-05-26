@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
 s.name   = 'SViewUtils'
-s.version  = '0.0.2'
+s.version  = '0.0.3'
 s.license  = 'MIT'
 s.summary  = 'SViewUtils'
 s.homepage = 'https://github.com/hovansuit/SViewUtils'
