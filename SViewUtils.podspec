@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
 s.name   = 'SViewUtils'
-s.version  = '0.0.1'
+s.version  = '0.0.2'
 s.license  = 'MIT'
 s.summary  = 'SViewUtils'
 s.homepage = 'https://github.com/hovansuit/SViewUtils'
@@ -18,6 +18,6 @@ s.source   = { :git => 'https://github.com/hovansuit/SViewUtils.git', :tag => s.
 s.requires_arc = true
 s.ios.deployment_target = '8.0'
 s.ios.frameworks = 'Foundation', 'UIKit', 'GLKit'
-s.source_files = 'Sources/*.swift'
+s.source_files = 'SViewUtils/Sources/*.swift'
 
 end
